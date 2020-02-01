@@ -1,3 +1,5 @@
+## DEPRECATED 旧版本，已弃用
+
 # markov-cpp
 A C++ program that generate text based on input data.
 
